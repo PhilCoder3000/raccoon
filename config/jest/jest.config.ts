@@ -165,7 +165,7 @@ export default {
   // testEnvironmentOptions: {},
 
   // Adds a location field to test results
-  // testLocationInResults: false,
+  // testLocationInResults: false,p
 
   // An array of regexp pattern strings that are matched against all test paths, matched tests are skipped
   // testPathIgnorePatterns: [
